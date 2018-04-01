@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hellloworld-webpart-client-side-solution",
+    "id": "9f5843df-6492-4d53-b67a-bf0bf4fbc269",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/hellloworld-webpart.sppkg"
+  }
+}
